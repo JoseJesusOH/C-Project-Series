@@ -1,0 +1,2 @@
+//Metodo para mejorar la precision de salidas    
+cout.precision(2);
